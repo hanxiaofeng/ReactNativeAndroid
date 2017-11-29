@@ -2,12 +2,12 @@
 
 ![](https://img.shields.io/badge/language-java-orange.svg)
 
-目录
+###目录
 
-##### <a href="#one">·Android原生项目集成RN,开发环境运行方式</a>
-##### <a href="#two">·debug调试方式</a>
-##### <a href="#three">·打签名包方式</a>
-##### <a href="#four">·设置支持的 SO 库构架</a>
+##### <a href="#one">1.Android原生项目集成RN,开发环境运行方式</a>
+##### <a href="#two">2.debug调试方式</a>
+##### <a href="#three">3.打签名包方式</a>
+##### <a href="#four">4.设置支持的 SO 库构架</a>
 
 
 #### <div id="one"></div>一.Android原生项目集成RN & 开发环境运行方式：
