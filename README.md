@@ -2,7 +2,12 @@
 
 ![](https://img.shields.io/badge/language-java-orange.svg)
 
-#### 一.Android原生项目集成RN & 开发环境运行方式：
+###### <a href="#one">·Android原生项目集成RN,开发环境运行方式</a>
+###### <a href="">·debug调试方式</a>
+###### <a href="">·打签名包方式</a>
+###### <a href="">·设置支持的 SO 库构架</a>
+
+#### <div id="one"></div>一.Android原生项目集成RN & 开发环境运行方式：
 
 1.执行npm install需要管理员权限启动cmd窗口
 
