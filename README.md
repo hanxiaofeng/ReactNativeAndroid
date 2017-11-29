@@ -1,5 +1,7 @@
 # ReactNativeAndroid
 
+![](https://img.shields.io/cocoapods/v/ReactNativeAndroid.svg?style=flat)
+
 #### Android原生项目集成RN & 开发环境运行方式：
 
 1.执行npm install需要管理员权限启动cmd窗口
