@@ -1,6 +1,6 @@
 # ReactNativeAndroid
 
-![](https://img.shields.io/cocoapods/v/ReactNativeAndroid.svg?style=flat)
+![](https://img.shields.io/badge/language-java-orange.svg)
 
 #### Android原生项目集成RN & 开发环境运行方式：
 
