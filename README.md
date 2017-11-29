@@ -72,7 +72,7 @@ react-native bundle --platform android --dev false --entry-file index.android.js
     }
 ```
 
-2.运行项目，摇晃手机，会弹出选择框，选择Dev Settings设置Debug server host & port for device选项，设置格式：ip地址+端口号（8081）
+2.执行npm start命令，启动本地服务器，然后运行项目，摇晃手机，会弹出选择框，选择Dev Settings设置Debug server host & port for device选项，设置格式：ip地址+端口号（8081）
 
 3.设置好后返回，会自动加载项目，此时运行成功
 
