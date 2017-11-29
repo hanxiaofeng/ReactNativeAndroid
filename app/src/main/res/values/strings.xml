@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ReactNativeDemo</string>
+
+    <string name="camera_failure">相机连接失败</string>
+    <string name="camera_hint">您的相机可能被其它应用占用，请检查后再使用。</string>
+    <string name="ok">好的</string>
+</resources>
