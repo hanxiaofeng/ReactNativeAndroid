@@ -1,6 +1,6 @@
 # ReactNativeAndroid
 
-#####Android原生项目集成RN & 开发环境运行方式：
+##### Android原生项目集成RN & 开发环境运行方式：
 
 1.执行npm install需要管理员权限启动cmd窗口
 
@@ -63,7 +63,7 @@ react-native bundle --platform android --dev false --entry-file index.android.js
 8.运行即可看到执行效果
 
 
-#####debug调试方式：
+##### debug调试方式：
 1.配置reactApplication下如下方法,true代表debug环境，false代表开发环境：
 ```
     @Override
@@ -78,7 +78,7 @@ react-native bundle --platform android --dev false --entry-file index.android.js
 
 4.开发时开启热更新模式，修改代码后可实时显示运行效果，方式：摇晃手机，在弹出的选择框中选择Enable Hot Reloading即可，然后随便修改下代码，ctrl+s即可自动更新页面
 
-#####打签名包方式
+##### 打签名包方式
 
 1.app目录下build.gradle添加如下配置,签名文件放置在app目录下：
 
