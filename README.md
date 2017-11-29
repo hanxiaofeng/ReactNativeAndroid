@@ -2,7 +2,7 @@
 
 ![](https://img.shields.io/badge/language-java-orange.svg)
 
-#### Android原生项目集成RN & 开发环境运行方式：
+#### 一.Android原生项目集成RN & 开发环境运行方式：
 
 1.执行npm install需要管理员权限启动cmd窗口
 
@@ -65,7 +65,7 @@ react-native bundle --platform android --dev false --entry-file index.android.js
 8.运行即可看到执行效果
 
 
-#### debug调试方式：
+#### 二.debug调试方式：
 1.配置reactApplication下如下方法,true代表debug环境，false代表开发环境：
 ```
     @Override
@@ -80,7 +80,7 @@ react-native bundle --platform android --dev false --entry-file index.android.js
 
 4.开发时开启热更新模式，修改代码后可实时显示运行效果，方式：摇晃手机，在弹出的选择框中选择Enable Hot Reloading即可，然后随便修改下代码，ctrl+s即可自动更新页面
 
-#### 打签名包方式
+#### 三.打签名包方式
 
 1.app目录下build.gradle添加如下配置,签名文件放置在app目录下：
 
@@ -106,7 +106,7 @@ react-native bundle --platform android --dev false --entry-file index.android.js
 
 2.打开Terminal命令行模式,执行gradlew assembleRelease,待执行完毕，会在build/outputs/apk目录下生成app-reease.apk签名包
 
-#### 设置支持的 SO 库构架：
+#### 四.设置支持的 SO 库构架：
 
 ```
     ndk {
