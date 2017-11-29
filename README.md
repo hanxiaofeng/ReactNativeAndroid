@@ -1,0 +1,2 @@
+# ReactNativeAndroid
+Android集成ReactNative的Demo，包含原生与rn传值，rn调用原生扫码二维码获取扫码数据等
