@@ -35,6 +35,8 @@ allprojects {
 
 ```
 compile 'com.facebook.react:react-native:0.44.0'
+或
+compile 'com.facebook.react:react-native:+'
 ```
 
 5.报错如下错误
