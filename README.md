@@ -31,7 +31,7 @@ allprojects {
 
 ```
 
-4.app的build.gradle中添加react依赖库，版本要与package.json一致
+4.app的build.gradle中添加react依赖库，版本要与package.json一致（貌似也可以直接使用+号来代替版本号，node_modules生成的是package.json中配置的dependencies，里面配置react-native版本号，gradle配置时用+号就是指向该版本号）
 
 ```
 compile 'com.facebook.react:react-native:0.44.0'
